@@ -1,4 +1,4 @@
-input="<"
+input="[->+<]"
 binout=""
 for i in range(0,len(input)):
 	if input[i]==">":

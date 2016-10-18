@@ -1,4 +1,4 @@
-input="_________"
+input="trolololo"
 bo=str(bin(len(input)))[2:]
 out=""
 for i in range (0,len(bo)//4):
